@@ -8,4 +8,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Button.Colored.LoginFB" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:colorButtonNormal">@android:color/holo_blue_dark</item>
+    </style>
+
+    <style name="Button.Colored.LoginGM" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:colorButtonNormal">@android:color/holo_red_dark</item>
+    </style>
 </resources>

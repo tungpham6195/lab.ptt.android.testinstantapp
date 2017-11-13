@@ -1,1 +1,9 @@
-<resources></resources>
+<resources>
+
+    <style name="login_with_facebook">Login with Facebook</style>
+
+    <style name="login_with_gmail">Login with Gmail</style>
+
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_gmail">Login with Gmail</string>
+</resources>

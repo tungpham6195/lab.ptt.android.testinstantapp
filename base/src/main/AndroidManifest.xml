@@ -9,9 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <meta-data
-            android:name="aia-compat-api-min-version"
-            android:value="1" />
+        <activity android:name=".LoginActivity"/>
     </application>
 
 </manifest>
